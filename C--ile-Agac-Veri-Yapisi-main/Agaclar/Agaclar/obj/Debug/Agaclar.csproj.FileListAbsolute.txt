@@ -1,0 +1,11 @@
+C:\Users\kazbu\source\repos\Agaclar\Agaclar\bin\Debug\Agaclar.exe.config
+C:\Users\kazbu\source\repos\Agaclar\Agaclar\bin\Debug\Agaclar.exe
+C:\Users\kazbu\source\repos\Agaclar\Agaclar\bin\Debug\Agaclar.pdb
+C:\Users\kazbu\source\repos\Agaclar\Agaclar\obj\Debug\Agaclar.csproj.AssemblyReference.cache
+C:\Users\kazbu\source\repos\Agaclar\Agaclar\obj\Debug\Agaclar.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazbu\source\repos\Agaclar\Agaclar\obj\Debug\Agaclar.Form1.resources
+C:\Users\kazbu\source\repos\Agaclar\Agaclar\obj\Debug\Agaclar.Properties.Resources.resources
+C:\Users\kazbu\source\repos\Agaclar\Agaclar\obj\Debug\Agaclar.csproj.GenerateResource.cache
+C:\Users\kazbu\source\repos\Agaclar\Agaclar\obj\Debug\Agaclar.csproj.CoreCompileInputs.cache
+C:\Users\kazbu\source\repos\Agaclar\Agaclar\obj\Debug\Agaclar.exe
+C:\Users\kazbu\source\repos\Agaclar\Agaclar\obj\Debug\Agaclar.pdb

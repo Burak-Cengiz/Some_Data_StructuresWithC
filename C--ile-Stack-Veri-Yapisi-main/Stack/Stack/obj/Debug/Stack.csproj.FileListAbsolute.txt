@@ -1,0 +1,11 @@
+C:\Users\kazbu\source\repos\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\kazbu\source\repos\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\kazbu\source\repos\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\kazbu\source\repos\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\kazbu\source\repos\Stack\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazbu\source\repos\Stack\Stack\obj\Debug\Stack.Stack.resources
+C:\Users\kazbu\source\repos\Stack\Stack\obj\Debug\Stack.Properties.Resources.resources
+C:\Users\kazbu\source\repos\Stack\Stack\obj\Debug\Stack.csproj.GenerateResource.cache
+C:\Users\kazbu\source\repos\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\kazbu\source\repos\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\kazbu\source\repos\Stack\Stack\obj\Debug\Stack.pdb

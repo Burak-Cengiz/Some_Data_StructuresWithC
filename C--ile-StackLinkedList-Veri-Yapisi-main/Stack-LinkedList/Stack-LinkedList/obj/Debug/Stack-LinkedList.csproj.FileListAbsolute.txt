@@ -1,0 +1,11 @@
+C:\Users\kazbu\source\repos\Stack-LinkedList\Stack-LinkedList\bin\Debug\Stack-LinkedList.exe.config
+C:\Users\kazbu\source\repos\Stack-LinkedList\Stack-LinkedList\bin\Debug\Stack-LinkedList.exe
+C:\Users\kazbu\source\repos\Stack-LinkedList\Stack-LinkedList\bin\Debug\Stack-LinkedList.pdb
+C:\Users\kazbu\source\repos\Stack-LinkedList\Stack-LinkedList\obj\Debug\Stack-LinkedList.csproj.AssemblyReference.cache
+C:\Users\kazbu\source\repos\Stack-LinkedList\Stack-LinkedList\obj\Debug\Stack-LinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazbu\source\repos\Stack-LinkedList\Stack-LinkedList\obj\Debug\Stack_LinkedList.Form1.resources
+C:\Users\kazbu\source\repos\Stack-LinkedList\Stack-LinkedList\obj\Debug\Stack_LinkedList.Properties.Resources.resources
+C:\Users\kazbu\source\repos\Stack-LinkedList\Stack-LinkedList\obj\Debug\Stack-LinkedList.csproj.GenerateResource.cache
+C:\Users\kazbu\source\repos\Stack-LinkedList\Stack-LinkedList\obj\Debug\Stack-LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\kazbu\source\repos\Stack-LinkedList\Stack-LinkedList\obj\Debug\Stack-LinkedList.exe
+C:\Users\kazbu\source\repos\Stack-LinkedList\Stack-LinkedList\obj\Debug\Stack-LinkedList.pdb

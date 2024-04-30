@@ -1,0 +1,11 @@
+C:\Users\kazbu\source\repos\Heap\Heap\bin\Debug\Heap.exe.config
+C:\Users\kazbu\source\repos\Heap\Heap\bin\Debug\Heap.exe
+C:\Users\kazbu\source\repos\Heap\Heap\bin\Debug\Heap.pdb
+C:\Users\kazbu\source\repos\Heap\Heap\obj\Debug\Heap.csproj.AssemblyReference.cache
+C:\Users\kazbu\source\repos\Heap\Heap\obj\Debug\Heap.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazbu\source\repos\Heap\Heap\obj\Debug\Heap.Form1.resources
+C:\Users\kazbu\source\repos\Heap\Heap\obj\Debug\Heap.Properties.Resources.resources
+C:\Users\kazbu\source\repos\Heap\Heap\obj\Debug\Heap.csproj.GenerateResource.cache
+C:\Users\kazbu\source\repos\Heap\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+C:\Users\kazbu\source\repos\Heap\Heap\obj\Debug\Heap.exe
+C:\Users\kazbu\source\repos\Heap\Heap\obj\Debug\Heap.pdb
